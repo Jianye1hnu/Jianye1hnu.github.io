@@ -33,10 +33,10 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
   Hui Wang, Wan-Lei Zhao, Xiangxiang Zeng, **Jianye Yang**, **CIKM**, 2021.  
   
 - **A Parameter-free Approach for Lossless Streaming Graph Summarization**  
-  Ziyi Ma, **Jianye Yang***, Kenli Li, Yuling Liu*, Xu Zhou, Yikun Hu, **DASFAA**, 2021.  
+  Ziyi Ma, **Jianye Yang***, Kenli Li, Yuling Liu, Xu Zhou, Yikun Hu, **DASFAA**, 2021.  
   
 - **Efficient Maintenance for Maximal Bicliques in Bipartite Graph Streams**  
-  Ziyi Ma, Yulin Liu*, Yikun Hu, **Jianye Yang***, Chubo Liu, Huadong Dai, **WWW Journal**, 2021.  
+  Ziyi Ma, Yulin Liu, Yikun Hu, **Jianye Yang***, Chubo Liu, Huadong Dai, **WWW Journal**, 2021.  
   
 - **Distributed Streaming Set Similarity Join**  
   **Jianye Yang**, Wenjie Zhang, Xiang Wang, Ying Zhang, Xuemin Lin, **ICDE**, 2020.  
