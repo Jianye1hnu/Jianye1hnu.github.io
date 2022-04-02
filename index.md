@@ -1,7 +1,7 @@
 ## Jianye YANG, PhD UNSW
 
 **Professor**  
-Cybserspace Institute of Advanced Technology, Guangzhou University, China  
+Cyberspace Institute of Advanced Technology, Guangzhou University, China  
 **Tel:** +86 138 2335 8708  
 **Email:** jyyang at gzhu.edu.cn  
 
