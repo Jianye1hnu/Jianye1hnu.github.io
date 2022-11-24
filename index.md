@@ -24,7 +24,7 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
   Yun Peng, Byron Choi, Tsz Nam Chan, **Jianye Yang***, Jianliang Xun, **SIGMOD**, 2023 (Accepted), CCF-A 会议.
 
 - **Efficient Maximum Edge-Weighted Biclique Search on Large Bipartite Graphs**   
-  Jianhua Wang, **Jianye Yang***, Chengyuan Zhang, Xuemin Lin, **TKDE** (Accepted), CCF-A 期刊.
+  Jianhua Wang, **Jianye Yang***, Chengyuan Zhang, Xuemin Lin, **TKDE**, 2022 (Accepted), CCF-A 期刊.
 
 - **(p,q)-biclique Counting and Enumeration for Large Sparse Bipartite Graphs**   
   **Jianye Yang**, Yun Peng, Wenjie Zhang, **PVLDB**, 2022, CCF-A 会议.    
