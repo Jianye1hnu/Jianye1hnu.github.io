@@ -20,6 +20,9 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
 
 ### Selected Publications (* indicates Corresponding Author)
 
+- **(p,q)-biclique Counting and Enumeration for Large Sparse Bipartite Graphs**   
+  **Jianye Yang**, Yun Peng, Dian Ouyang, Wenjie Zhang, Xuemin Lin, Xiang Zhao, **VLDB Journal**, 2023 (Accepted), CCF-A 期刊. 
+
 - **Efficient Approximate Nearest Neighbor Search in Multi-dimensional Databases**   
   Yun Peng, Byron Choi, Tsz Nam Chan, **Jianye Yang***, Jianliang Xun, **SIGMOD**, 2023 (Accepted), CCF-A 会议.
 
