@@ -7,9 +7,9 @@ Cyberspace Institute of Advanced Technology, Guangzhou University, China
 
 
 
-### Shor Biography
+### Short Biography
 
-**Jianye YANG** (杨建业) is currently a full professor at Cybserspace Institute of Advanced Technology, Guangzhou University, China. 
+**Jianye YANG** (杨建业) is currently a full professor at Cyberspace Institute of Advanced Technology, Guangzhou University, China. 
 During 2019-2021, he was an associate professor in Hunan University. During 2017-2019, he was a senior data engineer in Alibaba Group.
 In 2017, he got PhD of Computer Science and Engineering, the University of New South Wales (UNSW), Australia, 
 under the supervision of Prof. Xuemin Lin (林学民) and Prof. Wenjie Zhang(张文杰).
@@ -60,13 +60,13 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
   Chen Zhang, Ying Zhang, Wenjie Zhang, Lu Qin, **Jianye Yang***, **ICDE**, 2019, CCF-A 会议.
   
 - **Efficient Utilization of Missing Data in Cost-Sensitive Learning**  
-  Xiaofeng Zhu, **Jianye Yang**, Chengyuan Zhang, Shichao Zhang*, **TKDE**, 2019, CCF-A 期刊.
+  Xiaofeng Zhu, **Jianye Yang**, Chengyuan Zhang, Shichao Zhang, **TKDE**, 2019, CCF-A 期刊.
   
 - **Efficient Set Containment Join**  
   **Jianye Yang**, Wenjie Zhang, Shiyu Yang, Ying Zhang, Xuemin Lin, Long Yuan, **VLDB Journal**, 2018, CCF-A 期刊.
   
 - **TT-Join: Efficient Set Containment Join**  
-  **Jianye Yang**, Wenjie Zhang, Shiyu Yang*, Ying Zhang, Xuemin Lin, **ICDE**, 2017, CCF-A 会议.
+  **Jianye Yang**, Wenjie Zhang, Shiyu Yang, Ying Zhang, Xuemin Lin, **ICDE**, 2017, CCF-A 会议.
   
 - **Index-based Densest Clique Percolation Community Search in Networks**  
   Long Yuan, Lu Qin, Wenjie Zhang, Lijun Chang, **Jianye Yang**, **TKDE**, 2017, CCF-A 期刊.
