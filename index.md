@@ -20,16 +20,16 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
 
 ### Selected Publications (* indicates Corresponding Author)
 
-- **Efficient Multi-query Oriented Continuous Subgraph Matching**
-  Ziyi Ma, **Jianye Yang***, Xu Zhou, Guoqin Xiao, Jianhua Wang, Liang Yang, Kenli Li, Xuemin Lin, **ICDE**, 2024, **CCF-A** 会议. 
+- **Efficient Multi-query Oriented Continuous Subgraph Matching**  
+  Ziyi Ma, **Jianye Yang***, Xu Zhou, Guoqin Xiao, Jianhua Wang, Liang Yang, Kenli Li, Xuemin Lin, **ICDE**, 2024, **CCF-A** 会议.
 
-- **Efficient Learning-based Top-k Representative Similar Subtrajectory Query**
-  Kunming Wang, Shiyu Yang, Jiabao Jin, Peng Cheng, **Jianye Yang**, Xuemin Lin, **ICDE**, 2024, **CCF-A** 会议. 
+- **Efficient Learning-based Top-k Representative Similar Subtrajectory Query**  
+  Kunming Wang, Shiyu Yang, Jiabao Jin, Peng Cheng, **Jianye Yang**, Xuemin Lin, **ICDE**, 2024, **CCF-A** 会议.
 
 - **Efficient Maximal Biclique Enumeration on Large Signed Bipartite Graphs**  
   Jianhua Wang, **Jianye Yang***, Zhaoquan Gu, Dian Ouyang, Zhihong Tian, Xuemin Lin, **TKDE**, 2024, **CCF-A** 期刊.
 
-- **Efficient Regular Simple Path Queries under Transitive Restricted Expressions**
+- **Efficient Regular Simple Path Queries under Transitive Restricted Expressions**  
   Qi Liang, Dian Ouyang, Fan Zhang, **Jianye Yang**, Xuemin Lin, Zhihong Tian, **PVLDB**, 2024, **CCF-A** 会议.
 
 - **Efficient Maximal Biclique Enumeration on Large Uncertain Bipartite Graphs**  
