@@ -12,13 +12,22 @@ Cyberspace Institute of Advanced Technology, Guangzhou University, China
 **Jianye YANG** (杨建业) is currently a full professor at Cyberspace Institute of Advanced Technology, Guangzhou University, China. 
 During 2019-2021, he was an associate professor in Hunan University. During 2017-2019, he was a senior data engineer in Alibaba Group.
 In 2017, he got PhD of Computer Science and Engineering, the University of New South Wales (UNSW), Australia, 
-under the supervision of Prof. Xuemin Lin (林学民) and Prof. Wenjie Zhang(张文杰).
+under the supervision of Prof. Xuemin Lin and Prof. Wenjie Zhang.
 Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian University in 2010 and 2013, respectively.
 
 **Jianye**'s research interests include large graph data analytics and data similarity query processing.
 
 
 ### Selected Publications (* indicates Corresponding Author)
+
+- **TC-Match: Fast Time-constrained Continuous Subgraph Matching**  
+  **Jianye Yang**, Sheng Fang, Zhaoquan Gu, Ziyi Ma, Xuemin Lin, Zhihong Tian, **PVLDB**, 2024, **CCF-A** 会议.
+
+- **Deep Learning Approaches for Similarity Computation: A Survey**  
+  Peilun Yang, Hanchen Wang, **Jianye Yang***, Zhengping Qian, Ying Zhang, Xuemin Lin, **TKDE**, 2024, **CCF-A** 期刊.
+
+- **Multi-Source Shortest Path Query with Assembly Points on Large Graphs**  
+  Dian Ouyang, Zhuoran Wang, Fan Zhang, Shiyu Yang, **Jianye Yang**, Xuemin Lin, **TKDE**, 2024, **CCF-A** 期刊.
 
 - **Efficient Multi-query Oriented Continuous Subgraph Matching**  
   Ziyi Ma, **Jianye Yang***, Xu Zhou, Guoqin Xiao, Jianhua Wang, Liang Yang, Kenli Li, Xuemin Lin, **ICDE**, 2024, **CCF-A** 会议.
