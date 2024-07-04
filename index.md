@@ -70,15 +70,15 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
   
 - **Top-k Tree Similarity Join**   
   Jianhua Wang, **Jianye Yang***, Wenjie Zhang  
-  **CIKM** 2021, International Conference on Information and Knowledge Management (CIKM), **CCF-B** 会议 
+  **CIKM** 2021, International Conference on Information and Knowledge Management, **CCF-B** 会议 
   
 - **Fast k-NN Graph Construction by GPU based NN-Descent**  
   Hui Wang, Wan-Lei Zhao, Xiangxiang Zeng, **Jianye Yang**  
-  **CIKM** 2021, International Conference on Information and Knowledge Management (CIKM), **CCF-B** 会议 
+  **CIKM** 2021, International Conference on Information and Knowledge Management, **CCF-B** 会议 
   
 - **A Parameter-free Approach for Lossless Streaming Graph Summarization**  
   Ziyi Ma, **Jianye Yang***, Kenli Li, Yuling Liu, Xu Zhou, Yikun Hu  
-  **DASFAA** 2021, International Conference on Database Systems for Advanced Applications, **CCF-B** 会议  
+  **DASFAA** 2021, Inter. Conf. on Database Systems for Advanced Applications, **CCF-B** 会议  
   
 - **Efficient Maintenance for Maximal Bicliques in Bipartite Graph Streams**  
   Ziyi Ma, Yulin Liu, Yikun Hu, **Jianye Yang***, Chubo Liu, Huadong Dai  
@@ -94,7 +94,7 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
   
 - **GQA_RDF: A Graph-based Approach towards Efficient SPARQL Query Answering**  
   Xi Wang, Qianzhen Zhang, Deke Guo, Xiang Zhao, **Jianye Yang**  
-  **DASFAA** 2020, International Conference on Database Systems for Advanced Applications, **CCF-B** 会议  
+  **DASFAA** 2020, Inter. Conf. on Database Systems for Advanced Applications, **CCF-B** 会议  
   
 - **Cost Optimization Based on Influence and User Preference**  
   **Jianye Yang**, Wenjie Zhang, Ying Zhang, Xuemin Lin  
