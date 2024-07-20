@@ -9,7 +9,7 @@ Cyberspace Institute of Advanced Technology, Guangzhou University, China
 
 ### Short Biography
 
-**Jianye YANG** (杨建业) is currently a full professor at Cyberspace Institute of Advanced Technology, Guangzhou University, China. 
+**Jianye YANG** (杨建业) is currently a professor at the Cyberspace Institute of Advanced Technology, Guangzhou University, China. 
 During 2019-2021, he was an associate professor in Hunan University. During 2017-2019, he was a senior data engineer in Alibaba Group.
 In 2017, he got PhD of Computer Science and Engineering, the University of New South Wales (UNSW), Australia, 
 under the supervision of Prof. Xuemin Lin and Prof. Wenjie Zhang.
@@ -19,6 +19,10 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
 
 
 ### Selected Publications (* indicates Corresponding Author)
+
+- **Bigset: An Efficient Set Intersection Approach**  
+  Shiding Zhang, **Jianye Yang***, Wenjie Zhang, Shiyu Yang, Ying Zhang, Xuemin Lin  
+  **IEEE TKDE** 2024, IEEE Transactions on Knowledge and Data Engineering (TKDE), **CCF-A** 期刊
 
 - **TC-Match: Fast Time-constrained Continuous Subgraph Matching**  
   **Jianye Yang**, Sheng Fang, Zhaoquan Gu, Ziyi Ma, Xuemin Lin, Zhihong Tian     
