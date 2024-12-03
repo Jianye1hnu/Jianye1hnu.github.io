@@ -26,7 +26,7 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
 
 - **Weight-Constrained Simple Path Enumeration in Weighted Graph**  
   Dian Ouyang, Dong Wen, **Jianye Yang**, Wentao Li, Xuemin Lin  
-  **SIGKDD** 2025, ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD), **CCF-A** 会议
+  **SIGKDD** 2025, Inter. Conf. on Knowledge Discovery and Data Mining (SIGKDD), **CCF-A** 会议
 
 - **Bigset: An Efficient Set Intersection Approach**  
   Shiding Zhang, **Jianye Yang***, Wenjie Zhang, Shiyu Yang, Ying Zhang, Xuemin Lin  
