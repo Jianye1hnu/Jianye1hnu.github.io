@@ -20,6 +20,18 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
 
 ### Selected Publications (* indicates Corresponding Author)
 
+- **Deep Skyline Community Search**  
+  Minglang Xie, **Jianye Yang***, Wenjie Zhang, Shiyu Yang, Xuemin Lin  
+  **EDBT** 2025, International Conference on Extending Database Technology, **CCF-B** 会议 
+
+- **Durable Community Search on Temporal Graphs**  
+  Leshu Yuan, Ting Wang, **Jianye Yang***, Dian Ouyang  
+  **DASFAA** 2025, Inter. Conf. on Database Systems for Advanced Applications, **CCF-B** 会议 
+
+- **Durable Community Search on Temporal Graphs**  
+  Jianhua Wang, **Jianye Yang***, Wu Yao, Ziyi Ma, Zhaoquan Gu, Chengyuan Zhang  
+  **DASFAA** 2025, Inter. Conf. on Database Systems for Advanced Applications, **CCF-B** 会议 
+
 - **Maximal Similar-weight Biclique Enumeration for Large Bipartite Graphs**  
   **Jianye Yang**, Lei Xing, Ziyi Ma, Xi Luo, Cuiyun Gao, Xuemin Lin  
   **ICDE** 2025, IEEE International Conference on Data Engineering (ICDE), **CCF-A** 会议
