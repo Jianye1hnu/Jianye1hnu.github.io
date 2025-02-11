@@ -24,7 +24,7 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
   Minglang Xie, **Jianye Yang***, Wenjie Zhang, Shiyu Yang, Xuemin Lin  
   **EDBT** 2025, International Conference on Extending Database Technology, **CCF-B** 会议 
 
-- **Durable Community Search on Temporal Graphs**  
+- **Fairness-Aware Ride-sharing Assignment**  
   Leshu Yuan, Ting Wang, **Jianye Yang***, Dian Ouyang  
   **DASFAA** 2025, Inter. Conf. on Database Systems for Advanced Applications, **CCF-B** 会议 
 
