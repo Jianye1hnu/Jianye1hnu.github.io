@@ -20,6 +20,10 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
 
 ### Selected Publications (* indicates Corresponding Author)
 
+- **Efficient and Accurate Subgraph Counting: A Bottom-up Flow-learning based Approach**  
+  Qiuyu Guo, **Jianye Yang***, Wenjie Zhang, Hanchen Wang, Ying Zhang, Xuemin Lin  
+  **PVLDB** 2025, International Conference on Very Large Data Bases (VLDB), **CCF-A** 会议
+
 - **Deep Skyline Community Search**  
   Minglang Xie, **Jianye Yang***, Wenjie Zhang, Shiyu Yang, Xuemin Lin  
   **EDBT** 2025, International Conference on Extending Database Technology, **CCF-B** 会议 
