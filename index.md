@@ -20,6 +20,10 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
 
 ### Selected Publications (* indicates Corresponding Author)
 
+- **Maximal η-clique Maintenance over Uncertain Graph Streams**
+  Ziyi Ma, Liqing Wang, **Jianye Yang***, Xu Zhou, Kenli Li, Cuiyun Gao
+  **Information Sciences** 2025, **CCF-B** 期刊  
+
 - **Efficient and Accurate Subgraph Counting: A Bottom-up Flow-learning based Approach**  
   Qiuyu Guo, **Jianye Yang***, Wenjie Zhang, Hanchen Wang, Ying Zhang, Xuemin Lin  
   **PVLDB** 2025, International Conference on Very Large Data Bases (VLDB), **CCF-A** 会议
