@@ -20,6 +20,18 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
 
 ### Selected Publications (* indicates Corresponding Author)
 
+- **Reverse k Nearest Neighbor Query in Large Road Networks: A Tree Decomposition based Approach**  
+  Dian Ouyang, Boyu Zhang, **Jianye Yang***, Shiyu Yang, Chonghua Wang, Xuemin Lin  
+  **ICDE** 2026, IEEE International Conference on Data Engineering (ICDE), **CCF-A** 会议
+
+- **DIST: Efficient k-Clique Listing via Induced Subgraph Trie**  
+  Yehyun Nam, Jihoon Jang, Kunsoo Park,  **Jianye Yang**, Cheng Long   
+  **VLDB Journal** 2026, International Journal on Very Large Data Bases (VLDBJ), **CCF-A** 期刊
+
+- **TRIM: An Efficient Framework for Exact Eccentricity Computation on Large-Scale Graphs**  
+  Dian Ouyang, Jiajie Lin, Wentao Li, Fan Zhang, **Jianye Yang**, Xi Luo     
+  **PVLDB** 2026, International Conference on Very Large Data Bases (VLDB), **CCF-A** 会议
+
 - **Maximal η-clique Maintenance over Uncertain Graph Streams**   
   Ziyi Ma, Liqing Wang, **Jianye Yang***, Xu Zhou, Kenli Li, Cuiyun Gao  
   **Information Sciences** 2025, **CCF-B** 期刊  
