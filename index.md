@@ -20,6 +20,10 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
 
 ### Selected Publications (* indicates Corresponding Author)
 
+- **Maximum Balanced Clique Search on Large Directed Graphs**  
+  Jianhua Wang, **Jianye Yang***, Zhaoquan Gu, Dian Ouyang, Ziyi Ma, Ying Zhang  
+  **ICDE** 2026, IEEE International Conference on Data Engineering (ICDE), **CCF-A** 会议
+
 - **Reverse k Nearest Neighbor Query in Large Road Networks: A Tree Decomposition based Approach**  
   Dian Ouyang, Boyu Zhang, **Jianye Yang***, Shiyu Yang, Chonghua Wang, Xuemin Lin  
   **ICDE** 2026, IEEE International Conference on Data Engineering (ICDE), **CCF-A** 会议
