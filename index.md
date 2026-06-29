@@ -20,6 +20,10 @@ Prior to that, he got his Bachelor's Degree and Master's Degreee at Xidian Unive
 
 ### Selected Publications (* indicates Corresponding Author)
 
+- **Algebraic Subgraph Counting**  
+  Qiuyu Guo, **Jianye Yang***, Wenjie Zhang, Hanchen Wang, Ying Zhang, Xuemin Lin  
+  **SIGMOD** 2027, International Conference on Management of Data (SIGMOD), **CCF-A** 会议
+
 - **Maximum Balanced Clique Search on Large Directed Graphs**  
   Jianhua Wang, **Jianye Yang***, Zhaoquan Gu, Dian Ouyang, Ziyi Ma, Ying Zhang  
   **ICDE** 2026, IEEE International Conference on Data Engineering (ICDE), **CCF-A** 会议
